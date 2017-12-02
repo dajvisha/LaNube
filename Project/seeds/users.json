@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John Doe",
+        "email": "garcia.doe@gmail.com",
+        "password": "$2a$10$ldmD9tWkqsxsc4/n2zlf6OiXB3bjzoKun/P6uoqmyW5cte5tyr6ty",
+        "isAdmin": true
+    },
+    {
+        "name": "Jane Doe",
+        "email": "natygt94@hotmail.com",
+        "password": "$2a$10$ldmD9tWkqsxsc4/n2zlf6OiXB3bjzoKun/P6uoqmyW5cte5tyr6ty",
+        "isAdmin": false
+    },
+    {
+        "name": "Lorem Ipsum",
+        "email": "example@mail.com",
+        "password": "$2a$10$ldmD9tWkqsxsc4/n2zlf6OiXB3bjzoKun/P6uoqmyW5cte5tyr6ty",
+        "isAdmin": false
+    },
+    {
+        "name": "Lorem Ipsum",
+        "email": "1",
+        "password": "$2a$10$ldmD9tWkqsxsc4/n2zlf6OiXB3bjzoKun/P6uoqmyW5cte5tyr6ty",
+        "isAdmin": true
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Cómo hacer un videojuego",
+        "url": "google.com",
+        "description": "Guía para hacer un videojuego en Java",
+        "tags": [
+            {
+                "name": "java"
+            },
+            {
+                "name": "juego"
+            }
+        ],
+        "category": {
+            "name": "Programación",
+            "description": "Recursos que hablan de la programación"
+        },
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ],
+        "type": "web"
+    },
+    {
+        "name": "Ruby on rails",
+        "url": "google.com",
+        "description": "Guía para hacer páginas web en Ruby on rails",
+        "tags": [
+            {
+                "name": "web"
+            },
+            {
+                "name": "ruby"
+            },
+            {
+                "name": "rails"
+            }
+        ],
+        "category": {
+            "name": "Programación",
+            "description": "Recursos que hablan de la programación"
+        },
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ],
+        "type": "web"
+    },
+    {
+        "name": "React y Redux",
+        "url": "google.com",
+        "description": "Guía para hacer páginas web con React y Redux",
+        "tags": [
+            {
+                "name": "web"
+            },
+            {
+                "name": "react"
+            },
+            {
+                "name": "redux"
+            }
+        ],
+        "category": {
+            "name": "Programación",
+            "description": "Recursos que hablan de la programación"
+        },
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ],
+        "type": "web"
+    },
+    {
+        "name": "Fluorescentes",
+        "url": "google.com",
+        "description": "Guía para hacer un fluorescente",
+        "tags": [
+            {
+                "name": "química"
+            }
+        ],
+        "category": {
+            "name": "Ciencia",
+            "description": "Recursos que hablan de todas las ciencias"
+        },
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ],
+        "type": "web"
+    },
+    {
+        "name": "Teoría sobre los cosmos",
+        "url": "google.com",
+        "description": "Todo lo que debes saber sobre los cosmos",
+        "tags": [
+            {
+                "name": "astronomía"
+            }
+        ],
+        "category": {
+            "name": "Ciencia",
+            "description": "Recursos que hablan de todas las ciencias"
+        },
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ],
+        "type": "web"
+    },
+    {
+        "name": "Literarios Mexicanos Modernos",
+        "url": "google.com",
+        "description": "Teoría sobre los mejores escritores mexicanos modernos",
+        "tags": [
+            {
+                "name": "moderno"
+            }
+        ],
+        "category": {
+            "name": "Literatura",
+            "description": "Recursos que hablan de la literatura"
+        },
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ],
+        "type": "web"
+    },
+    {
+        "name": "Jeff Koons",
+        "url": "google.com",
+        "description": "Teoría sobre el escultor Jeff Koons",
+        "tags": [
+            {
+                "name": "arte"
+            },
+            {
+                "name": "moderno"
+            }
+        ],
+        "category": {
+            "name": "Arte",
+            "description": "Recursos que hablan sobre el arte"
+        },
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ],
+        "type": "web"
+    }
+]

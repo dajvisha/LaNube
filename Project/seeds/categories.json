@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Ciencia",
+        "description": "Recursos que hablan de todas las ciencias",
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ]
+    },
+    {
+        "name": "Matemáticas",
+        "description": "Recursos que hablan de las matemáticas",
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ]
+    },
+    {
+        "name": "Programación",
+        "description": "Recursos que hablan de la programación",
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ]
+    },
+    {
+        "name": "Literatura",
+        "description": "Recursos que hablan de la literatura",
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ]
+    },
+    {
+        "name": "Arte",
+        "description": "Recursos que hablan sobre el arte",
+        "updated_by": [
+            {
+                "user": {
+                    "name": "John Doe",
+                    "email": "garcia.doe@gmail.com"
+                },
+                "at": 1509952470595
+            }
+        ]
+    }
+]
