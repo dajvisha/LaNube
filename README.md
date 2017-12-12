@@ -7,6 +7,7 @@ Description:La Nube is an web app where teachers and students can show education
 This project was developed by the team:
 - Natalia G.
 - Myriam G.
+- Ana Karen R.
 - Fabian M.
 - Diego AJV
 
